@@ -1,0 +1,3 @@
+cdx kernel module is primarily used to interface the CMM and the DPA_APP 
+to the DPAA fast path. It intercepts messages from the DPA_APP for initial 
+configuration and the CMM for run time configuration of the DPAA Fast Path.
